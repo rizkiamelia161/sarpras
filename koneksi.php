@@ -2,8 +2,8 @@
     $host = "localhost";
     $user = "root";
     $password = "";
-    $database = "db_penjualan";
+    $database = "db_sarpras";
 
-    $connect = mysqli_connect($host,$user,$password,$database)or die ("GAGAL MENGHUBUNGKAN")
+    $connect = mysqli_connect($host,$user,$password,$database)or die ("GAGAL MENGHUBUNGKAN");
     
 ?>
