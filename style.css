@@ -1,0 +1,19 @@
+.sidbar{
+    position: fixed;
+    left: 0;
+    width: 15%;
+    height: 1110px;
+    margin-top: -10px;
+    background-color: aqua;
+}
+
+.teks-hero{
+    position: absolute;
+    left: 9%;
+    top: 130px;
+    line-height: 0px;
+}
+
+.teks-hero p:first-child(1){
+    
+}
