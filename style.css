@@ -1,19 +1,42 @@
 .sidbar{
     position: fixed;
     left: 0;
-    width: 15%;
+    width: 20%;
     height: 1110px;
     margin-top: -10px;
-    background-color: aqua;
+    background-color: #AECCC6;
 }
 
 .teks-hero{
     position: absolute;
-    left: 9%;
-    top: 130px;
-    line-height: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-top: -15px;
+    right: 10px;   
 }
-
-.teks-hero p:first-child(1){
-    
+a{
+    text-decoration: none;
+}
+#daftar1{
+    color: #373636;
+    font-family: "Raleway",sans-serif;
+    font-size: 15px;
+    margin-top: 140px;
+    text-align: center;
+}
+#daftar2{
+    color: #373636;
+    font-family: "Raleway",sans-serif;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: center;
+}
+.logo{
+    width: 35px;
+    height: 35px;
+    background:  #ffff;
+    border-radius: 100%;
+    margin-top: -193PX;
+    margin-right: 30px;
 }
